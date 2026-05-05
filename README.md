@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! I'm Yslan</h2>
+<h3 align="left">Full Stack Developer | Node.js · .NET · AWS · Azure · React · React Native · Next.JS · NestJS · PostgreSQL · Docker · Linux | CiberSecurity</h3>
 
 ###
 
