@@ -1,8 +1,8 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://www.icegif.com/wp-content/uploads/2022/06/icegif-594.gif" />
-  <img height="150" src="https://media1.tenor.com/m/wBzXX1bly3sAAAAd/subaru-natsuki-subaru.gif" />
+  <img height="200" src="https://www.icegif.com/wp-content/uploads/2022/06/icegif-594.gif" />
+  <img height="200" src="https://media1.tenor.com/m/wBzXX1bly3sAAAAd/subaru-natsuki-subaru.gif" />
 </div>
 
 ###
